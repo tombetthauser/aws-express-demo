@@ -1,5 +1,7 @@
 # AWS S3 Demo with PERN Stack
 
+Note: This repo is adapted from a repo / readme made originally by @lazytangent and @jdrichardsappacad which can be found [here](https://github.com/jdrichardsappacad/aws-s3-pern-demo).
+
 [Live Version](https://aws-s3-pern-demo.herokuapp.com)
 
 - Postgres
